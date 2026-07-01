@@ -6,7 +6,7 @@ Types of Operators in Python
         +, -, *, /, //, %, **
     2. Assignment Operators
         =, +=, -=, *=, /=, //=, %=, **=
-    3. Relational Operators
+    3. Relational | Comparison | Conditional Operators
         <, >, <=, >=, ==, !=
     4. Logical Operators
         and, or, not
