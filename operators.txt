@@ -1,0 +1,20 @@
+Operators - are the symbols to perform any kind of operation on data 
+Operands - the values or variable on which the operation is being performed
+
+Types of Operators in Python
+    1. Arithmetic Operators
+        +, -, *, /, //, %, **
+    2. Assignment Operators
+        =, +=, -=, *=, /=, //=, %=, **=
+    3. Relational Operators
+        <, >, <=, >=, ==, !=
+    4. Logical Operators
+        and, or, not
+    5. Bitwise Operators
+        &, |
+    6. Shift Operators
+        <<, >>
+    7. Identity Operators
+        is, is not
+    8. Membership Operators
+        in, not in 
