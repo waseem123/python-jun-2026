@@ -6,3 +6,13 @@ Conditional
 
 choice based
     1. match statements
+
+
+
+if CONDITION:
+    statement 1
+    statement 2
+    ...
+    statement N
+
+statement XYZ
