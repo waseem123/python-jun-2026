@@ -8,8 +8,8 @@
 x = 100
 print(x)
 
-y1 = 20
-print(y1)
+y_1 = 20
+print(y_1)
 
 _ = 3000
 print(_)
