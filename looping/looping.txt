@@ -1,0 +1,23 @@
+Loops are the block of code that execute the repeatative tasks
+
+There are two categories of looops
+    1. ENTRY-CONTROLLED
+        a. while loop
+        b. for-in loop
+    2. EXIT-CONTROLLED
+
+
+1. while loop syntax
+
+while CONDITION:
+    statement 1
+    statement 2
+    ...
+    statement N
+
+2. for loop syntax
+for var in sequence:
+    statement 1
+    statement 2
+    ...
+    statement N
