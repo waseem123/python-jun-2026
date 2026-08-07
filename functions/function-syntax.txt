@@ -1,0 +1,22 @@
+There are two phases of Functions
+    1. Definition
+    2. Invocation / call
+
+DEFINITION - Writing the logic of the function
+
+def name_of_function(param 1, param 2, param 3...param N):
+    statement 1
+    statement 2
+    ....
+    statement N
+
+
+INVOCATION - To call function for execution
+name_of_function(value 1, value 2, value 3, ... value N)
+____________________________________________________________
+
+Types of Functions
+1. No Parameter No Return Value
+2. Parameter but No Return Value
+3. No Parameter but Return Value
+4. Parameter and Return Value both
